@@ -6,5 +6,5 @@ deploy.sh
 ### IntelliJ IDEA ###
 .idea
 *.iws
-*.iml
+weidian.iml
 *.ipr
