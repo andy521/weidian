@@ -2,9 +2,10 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 src/main/resources
 deploy.sh
+weidian.iml
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
-weidian.iml
+*.iml
 *.ipr
